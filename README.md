@@ -1,8 +1,8 @@
-## Python-Challenge Module 3
+# Python-Challenge Module 3
 
 Module 3 Challenge
 
-# Pybank Challenge 
+## Pybank Challenge 
 
 This challenge I wrote a python script that imported data from a csv file. The information on the csv file included a time period of months and a Profit/Loss column over the given time period. 
 
@@ -15,6 +15,7 @@ Below are the outputs and steps required
 - Calculate the greatest increase month (date and value)
 - Calculate the greatest decrease month (date and value)
 - Output all analyis information to the terminal and create a text file with the same data, following the format below:
+
 Financial Analysis
 ----------------------------
 Total Months: 86
@@ -23,7 +24,7 @@ Average Change: $-8311.11
 Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)"
 
-# PyPoll Challenge
+## PyPoll Challenge
 
 This challenge I wrote a python script that imported data from a csv file. The information on the csv file included a data on a current election that was broken into 3 headers: Ballot ID, County, and Candidate Receiving Vote
 Below are the  outputs and steps required
@@ -32,7 +33,8 @@ Below are the  outputs and steps required
 - Calcuate the candidate, percentage of total votes received, and final vote tally per candidate
 - Calculate the winner and display their name.
 - Output all analyis information to the terminal and create a text file with the same data, following the format below:
-"Election Results
+
+Election Results
 -------------------------
 Total Votes: 369711
 -------------------------
